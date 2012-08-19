@@ -1,4 +1,11 @@
 # CV Checkliste #
+## Ziele ##
+Folgende Ziele hat das CV
+
+- Interesse an der Person wecken
+- Beschreiben, was man an Wissen und Talent mitbringt
+- Einfache Möglichkeit für das Unternehmen die Ausschreibung mit dem Bewerber zu vergleichen
+
 ## Allgemein ##
 - Jahreszahlen sind absteigend sortiert. Das aktuellste immer zuerst
 - Erfahrung ebenfalls absteigend sortieren. Zuerst was man perfekt kann und zuletzt womit man kaum Erfahrung hat
