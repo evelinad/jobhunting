@@ -33,6 +33,7 @@ Folgende Ziele hat das CV
   - Finanzinstitutionen: tendenziell im Hemd oder komplettem Anzug
   - Startup: eher "locker flockig"
 - nicht zu ernstes Bild, sollte die Persönlichkeit gut wiederspiegeln
+- Foto sollte kein selbstgemachtes sein. Am besten geht man zu einem richtigen Fotografen. Alles andere lohnt sich meistens nicht und macht einen eher negativen Eindruck.
 
 ## Personalien ##
 - Zwingend:
