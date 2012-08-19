@@ -66,3 +66,7 @@ Folgende Ziele hat das CV
 
 ## Spezifisch für Softwareentwickler ##
 - Auf möglichen Code verweisen, der online zur Verfügung steht und representativ ist (GitHub, Bitbucket, ...)
+
+## Export: Druck, PDF, ... ##
+- Bei der Stellenausschreibung genau prüfen, in welcher Form man die Bewerbung verschicken soll
+- PDF ist allgemein Microsoft Word Dokumenten vorzuziehen
