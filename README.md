@@ -7,9 +7,9 @@ In diesem Git-Repo liegen Notizen, die ich bei der Jobsuche verwende. Diese sind
 Derzeit konzentrieren sich die Empfehlungen auf den *schweizer* Arbeitsmarkt.
 
 ## The "Order" ##
-1. preparation.*.md -> [de-ch](preparation.de-ch.md)
-2. application_letter.*.md -> [de-ch](application_letter.de-ch.md)
+1. preparation.*.md -> [de-ch](https://github.com/groggi/jobhunting/blob/master/preparation.de-ch.md)
+2. application_letter.*.md -> [de-ch](https://github.com/groggi/jobhunting/blob/master/application_letter.de-ch.md)
 3. cv.*.md -> [de-ch](cv.de-ch.md)
-4. communication.*.md -> [de-ch](communication.de-ch.md)
-5. questions.*.md -> [de-ch](questions.de-ch.md)
-6. interview.*.md -> [de-ch](interview.de-ch.md)
+4. communication.*.md -> [de-ch](https://github.com/groggi/jobhunting/blob/master/communication.de-ch.md)
+5. questions.*.md -> [de-ch](https://github.com/groggi/jobhunting/blob/master/questions.de-ch.md)
+6. interview.*.md -> [de-ch](https://github.com/groggi/jobhunting/blob/master/interview.de-ch.md)
