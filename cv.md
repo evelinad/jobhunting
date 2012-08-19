@@ -15,6 +15,13 @@ Folgende Ziele hat das CV
 - Whitespace ist gut. Genug grosse Abstände und Ränder verwenden. Es ist kein Fliesstext.
 - Auf Farben soweit wie möglich verzichten
 - Nicht mehr als drei Fonts gebrauchen. Zwei sollten reichen. Darauf achten, dass diese gut leserlich sind und zueinander gegenseitig passen. Auch bei CVs die digital verschickt werden lohnt es sich meist für Druck zu optimieren.
+- Man muss selber mit seinem CV zufrieden sein. Schlussendlich soll es die eigene Persönlichkeit zu einem Teil wiederspiegeln. Darum immer alle Feedbacks von Freunden mit Vorsicht einbauen
+- Mindestens zwei oder drei Personen zur Korrektur geben. Mindestens eine Person sollte die Fähigkeit haben die Grammatik zu prüfen.
+- Durch richtigen Einsatz von Formatierungen (fett, kursiv, normal) kann dem Leser geholfen werden. Beispielsweise:
+  - fett: Wichtiges hervorheben: Titel der Aus- / Weiterbildung, Bezeichnung einer Sprache, ...
+  - kursiv: Namen von Schulen (Aus- / Weiterbildung), Firmennamen, Stellenbezeichnungen, ...
+  - normal: Fliesstext mit Erklärungen, Jahreszahlen, "unwichtiges"
+  - Vorsicht: Darauf achten, dass es nicht verspielt ist. Beispielsweise kann man alles in normaler Formatierung im Kapitel "Personalien" belassen, da dort nichts speziell hervorgehoben werden muss
 
 ## Kapitelreihenfolge ##
 - Vom wichtigen zum weniger wichtigen
