@@ -50,6 +50,8 @@ Folgende Ziele hat das CV
 ## Kapitel: Hobby ##
 - "lesen" ist kein Hobby
 - "Ferien", "Party", "Freunde treffen", ... sind keine echten Hobbys und vermitteln negativen Eindruck.
+- "Sport" ist zu allgemein und weckt kein Interesse beim Leser. Besser ist es genau anzugeben welche Sportarten. "Skitouren", "alpine Wanderungen", "Mountainbikefahren", ... wecken eher ein Interesse. Wenn man Glück hat, macht der Leser die gleiche Sportart. Dies kann zu einem persönlichen Gespräch führen während dem Bewerbungsgespräch, was wiederrum oft "Pluspunkte" gibt.
+- "Musizieren" ist, wie "Sport", zu allgemein. Ruhig auf das konkrete Instrument eingehen und wie lange man es schon spielt. Wie beim Sport kann es zu interessanten Gesprächen führen und macht den Bewerbenden interessanter. 
 
 ## Kapitel: Aus- und Weiterbildung ##
 - Bei Ausbildung darauf achten, dass man nicht den kompletten schulischen Werdegang einbaut. Bei der ersten "besonderen"
