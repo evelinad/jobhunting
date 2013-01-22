@@ -70,3 +70,6 @@ Folgende Ziele hat das CV
 ## Export: Druck, PDF, ... ##
 - Bei der Stellenausschreibung genau prüfen, in welcher Form man die Bewerbung verschicken soll
 - PDF ist allgemein Microsoft Word Dokumenten vorzuziehen
+
+## Wörter ##
+- Darauf achten, dass im CV keine Wörter zu oft verwendet werden (Synonyme oder andere Formulierungen verwenden)
